@@ -7,6 +7,8 @@ Bienvenue sur mon profile Github ! Je m'appelle Kylian (oui vraiment avec un y p
 A ce qu'on dit ! un jour il y aura des repos public sur mon compte :o 
 
 
+🇫🇷 Français
+Discord : SkyFR#3460
 
 <img src="https://github-readme-stats.vercel.app/api?username=skyfra&theme=dark&show_icons=true" alt="Mes Stats" style="float: center; zoom: 67%;" />
 
