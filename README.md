@@ -1,14 +1,14 @@
-# :wave: Salut
 
 
-
-Bienvenue sur mon profile Github ! Je m'appelle Kylian (oui vraiment avec un y puis un i :open_mouth:) mais généralement on m'appelle Sky 
-
-A ce qu'on dit ! un jour il y aura des repos public sur mon compte :o 
-
-
-🇫🇷 Français
-Discord : SkyFR#3460
-
-<img src="https://github-readme-stats.vercel.app/api?username=skyfra&theme=dark&show_icons=true" alt="Mes Stats" style="float: center; zoom: 67%;" />
+<p align="center">
+  <b>Bienvenue</b><br>
+  💻<a href="https://discords.com/bio/p/skyfr">Discord</a> |
+  🐦<a href="https://twitter.com/skyfraa">Twitter</a> |
+  🕸 <a href="https://skyfra.studio"> Site Web</a>
+</p>
+<br>
+<p align="center">
+<img src="https://screen.justaven.xyz/kuTo9/JUYUZEya92.png/raw" align="center">
+  <p align="center"> 📸 By Sven van der Pluijm </p>
+</p>
 
