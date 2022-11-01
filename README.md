@@ -1,14 +1,8 @@
+# Work In Progress... 🔨⚠
+Mon profil Github est actuellement en cours de rénovation.
 
+Sous peu des repository et un nouveau README ferront leurs apparitions ! 
 
-<p align="center">
-  <b>Bienvenue</b><br>
-  💻<a href="https://discords.com/bio/p/skyfr">Discord</a> |
-  🐦<a href="https://twitter.com/skyfraa">Twitter</a> |
-  🕸 <a href="https://kylianve.fr"> Site Web</a>
-</p>
-<br>
-<p align="center">
-<img src="https://screen.justaven.xyz/kuTo9/JUYUZEya92.png/raw" align="center">
-  <p align="center"> 📸 By Sven van der Pluijm </p>
-</p>
+Restez connectés!
 
+![Badge Twitter](https://img.shields.io/twitter/url?label=skyfraa&style=social&url=https%3A%2F%2Ftwitter.com%2Fskyfraa) ![Badge Discord](https://img.shields.io/twitter/url?label=SkyFR%233460&logo=discord&style=social&url=https%3A%2F%2Fgithub.com%2Fskyfra)
